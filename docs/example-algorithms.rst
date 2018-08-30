@@ -14,5 +14,7 @@ Overview
 Simple MA Double
 ~~~~~~~~~~~~~~~~~
 
+Source code: `examples/example-ma-double.py <https://github.com/watch-finance/gaussian/blob/master/gaussian/examples/example-ma-double.py>`_
+
 .. literalinclude:: ../gaussian/examples/example-ma-double.py
    :language: python
