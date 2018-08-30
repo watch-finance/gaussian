@@ -1,4 +1,23 @@
 API Reference
 ==============
 
-준비 중입니다.
+
+Running a Strategy
+~~~~~~~~~~~~~~~~~~
+
+.. autofunction:: gaussian.run_algorithm(...)
+
+Algorithm API
+~~~~~~~~~~~~~
+
+TradingAlgorithm
+````````````````
+
+Backtest
+````````
+
+Assets
+``````
+
+Account
+```````
