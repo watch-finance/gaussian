@@ -14,6 +14,17 @@ Gaussian은 백테스트와 실시간 거래를 지원하는 트레이딩 알고
 `워치봇 <https://www.watchbot.co.kr>`_
 은 보조지표를 활용하여 24시간 자동 매매를 수행하는 암호화폐 트레이딩 봇 서비스입니다.
 
+Overview
+========
+
+-  높은 자유도: Gaussian은 매우 높은 자유도를 제공합니다. 암호화폐 시장에서 구현할 수 있는 전략을 상당 부분 구현 할 수 있으며,
+기본적인 보조 지표 사용 부터 모든 트레이딩 로직을 구현 할 수 있습니다.
+-  다양한 지원 거래소: Bithumb, Upbit, Coinone, Binance, Huobi, Poloniex
+-  전략설계에 필요한 데이터: 모든 암호화폐에 대한 OHLCV, Orderbook, Slippage 데이터 제공.
+-  다양한 테스트 모드 지원 및 실제 트레이딩: backtest, papertest, live
+-  PyData eco-system: Pandas DataFrames 에 기반한 아웃풋 값을 가지며, PyData eco-system 과 연동이 쉽다.
+-  빠른 백테스팅: zipline, catalyst 대비 5배 정도 빠른 백테스팅 속도
+
 Contents
 ========
 
